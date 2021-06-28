@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BMW cars</string>
+    <string name="app_title">used cars price predictor</string>
+    <string name="app_getname">select car model below</string>
+    <string name="model_year">enter registration year</string>
+    <string name="model_mileage">enter car running(miles)</string>
+    <string name="model_mpg">enter  mpg(miles/gall.)</string>
+    <string name="model_enginesize">engine size(litres)</string>
+    <string name="rb1">gearbox:Auto</string>
+    <string name="rb2">gearbox:Manual</string>
+    <string name="rb3">gearbox:Semi-auto</string>
+    <string name="get_price">get price</string>
+    <string name="about">This application is made to predict prices of used/old BMW cars.so the buyers and sellers would get  approximate  prices,which can help them in doing proper
+    analysis before buying/selling cars.
+    The apk is based on  linear regression model from sklearn and its code is converted to native i.e JAVA (using m2cgen module in python)and implemented in android GUI
+
+    </string>
+    <string name="out">output</string>
+
+    <string-array name="car_names">
+
+        <item>1 Series</item>
+        <item>2 Series</item>
+        <item>3 Series</item>
+        <item>4 Series</item>
+        <item>5 Series</item>
+        <item>6 Series</item>
+        <item>7 Series</item>
+        <item>8 Series</item>
+
+        <item>M2</item>
+        <item>M3</item>
+        <item>M4</item>
+        <item>M5</item>
+        <item>M6</item>
+
+        <item>X1</item>
+        <item>X2</item>
+        <item>X3</item>
+        <item>X4</item>
+        <item>X5</item>
+        <item>X6</item>
+        <item>X7</item>
+
+        <item>Z3</item>
+        <item>Z4</item>
+
+        <item>i3</item>
+        <item>i8</item>
+    </string-array>
+
+
+</resources>
